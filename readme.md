@@ -6,9 +6,4 @@
 3. Python Advanced
 4. Einführung Django Framework 
 
-## Kurze Einführung in Git und Github
-### Wichtige Links: 
-[Git](https://git-scm.com/downloads) |
-[Github](https://github.com) |
-[Youtube Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
-
+#### Python Basics
