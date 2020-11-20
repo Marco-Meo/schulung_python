@@ -33,3 +33,14 @@ Wir nutzen die Version 3.8.x
 `git clone https://github.com/Marco-Meo/schulung_python.git
 `
 
+#### Installation weiterer librarys mit pip
+`pip install pandas`
+
+##### Liste der installierten librarys
+`pip list`
+
+##### Erstellen einer requirements.txt Liste
+`pip freeze -> requirements.txt`
+
+##### Laden einer requirements.txt Datei
+`pip install -r requirements.txt`
