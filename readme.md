@@ -13,4 +13,14 @@
 
 #### Python Basics
 1. Grundlagen Theorie
-2. 
+2. Shell und Python Skripts
+3. Funktionen
+4. Objektorientiertes Programmieren
+5. Fehlerbehandlung
+6. Logging
+7. Decorators
+
+#### Python Advanced
+1. Einführung Jupyter Notebook
+2. Datenanalyse
+3. Webservice Schnittstellen
