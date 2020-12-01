@@ -30,8 +30,7 @@ Wir nutzen die Version 3.8.x
 
 `cd schulung_python`
 
-`git clone https://github.com/Marco-Meo/schulung_python.git
-`
+`git clone https://github.com/Marco-Meo/schulung_python.git`
 
 #### Installation weiterer librarys mit pip
 `pip install pandas`
