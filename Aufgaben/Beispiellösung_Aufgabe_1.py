@@ -1,7 +1,7 @@
 # Importe
 from argparse import ArgumentParser
 from datetime import datetime
-
+import os
 
 if __name__ == '__main__':
     parser = ArgumentParser()
@@ -25,7 +25,7 @@ if __name__ == '__main__':
     brieftext = brieftext.replace('{% Kundenname %}', args.kunde)
     datum_heute = datetime.now().strftime("%d_%m_%y")
     datei_name = f'Brief_{datum_heute}_{args.kunde}.txt'
-    with open(datei_name, 'w') as file:
+    with open(os.path.join('Briefe_Archiv', datei_name), 'w') as file:
         file.writelines(brieftext)
     # try:
     #     file = open(datei_name, 'w')
