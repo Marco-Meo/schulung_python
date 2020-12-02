@@ -19,10 +19,11 @@
 5. Fehlerbehandlung
 6. Logging
 7. Decorators
+8. Konfigurationsdatei
 
 #### Python Advanced
 1. Einführung Jupyter Notebook
 2. Datenanalyse
 3. Webservice Schnittstellen
 
-#### Neuer Punkt 2
+#### Einfühurung Django Framework
