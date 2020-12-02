@@ -1,0 +1,7 @@
+Sehr geehrter Herr {% Kundenname %}
+
+Besten Dank für Ihre Bestellung!
+Wir werden uns in kürze bei Ihnen melden um den Auslieferungstermin zu vereinbaren.
+
+Freundliche Grüsse
+Ihr Heizungsspezialist
