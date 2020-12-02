@@ -9,7 +9,7 @@ if __name__ == '__main__':
 
     BytesPerGB = 1024 * 1024 * 1024
 
-    logger = logs(logfile='speicherplatz.log')
+    logger = logs(logfile='speicherplatz.log', loglevel='WARNING')
 
     while True:
         (total, used, free) = shutil.disk_usage(path)

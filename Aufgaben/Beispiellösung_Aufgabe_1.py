@@ -21,7 +21,6 @@ if __name__ == '__main__':
         brieftext = template.read()
 
     # print(brieftext)
-
     brieftext = brieftext.replace('{% Kundenname %}', args.kunde)
     datum_heute = datetime.now().strftime("%d_%m_%y")
     datei_name = f'Brief_{datum_heute}_{args.kunde}.txt'
