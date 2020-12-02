@@ -15,6 +15,9 @@ class Initial:
                 return None
             self.logpath = config.get('Logging', 'path')
             self.loglevel = config.get('Logging', 'loglevel')
+            # config.set('Logging', 'wert', '1000')
+            # with open('config2.ini', 'w') as file:
+            #     config.write(file)
             config.clear()
         except Exception as e_konfig:
             print(f'Fehler beim lesen der Konfigurationsdatei: {e_konfig}')
