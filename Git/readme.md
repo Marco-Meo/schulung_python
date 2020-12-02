@@ -36,3 +36,7 @@ Füge ein externes Git Repository z.B. Github hinzu:
 `git branch -M main`
 
 `git push -u origin main`
+
+### Immer committen bevor man nach hause geht!!
+
+![bild](https://miro.medium.com/max/2400/1*jX9y8XGrQUcW4Lk3aNuBDQ.jpeg)
