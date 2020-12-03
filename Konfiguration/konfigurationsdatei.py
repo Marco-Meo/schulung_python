@@ -19,9 +19,10 @@ class Initial:
             # with open('config2.ini', 'w') as file:
             #     config.write(file)
             config.clear()
+            return True
         except Exception as e_konfig:
             print(f'Fehler beim lesen der Konfigurationsdatei: {e_konfig}')
-            pass
+            return None
 
 
 if __name__ == '__main__':
